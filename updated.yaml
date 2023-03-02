@@ -1,0 +1,7 @@
+app: 
+  finacle: 
+    FINACLE_URL: a
+    FINACLE_URL2: b
+  cersai: 
+    CERSAI1: c
+    CERSAI2: d
